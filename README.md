@@ -13,18 +13,55 @@ figuring out how to make something work, but now I ask myself another question:
 That’s where I find joy in making things: in figuring them out and in
 seeing someone enjoy using them.
 
-## At my desk
+## Technologies & Tools
 
-![Figma](https://img.shields.io/badge/Figma-6A37CB?style=flat-square&logo=figma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-9C401E?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00718B?style=flat-square&logo=go&logoColor=white)
+<!-- Logo tiles: local assets; sources and licenses in assets/icons/ATTRIBUTION.md. Dashed tiles are custom lettermarks, not official logos. -->
 
-![Neovim](https://img.shields.io/badge/Neovim-367C37?style=flat-square&logo=neovim&logoColor=white)
-![Pi](https://img.shields.io/badge/Pi-49566B?style=flat-square)
-![Orca](https://img.shields.io/badge/Orca-49566B?style=flat-square)
+**Design & Media**
+
+<p>
+<img src="assets/icons/figma.svg" width="40" height="40" alt="Figma" title="Figma">
+<img src="assets/icons/illustrator.svg" width="40" height="40" alt="Illustrator" title="Illustrator">
+<img src="assets/icons/photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop">
+<img src="assets/icons/lightroom.svg" width="40" height="40" alt="Lightroom" title="Lightroom">
+<img src="assets/icons/premiere-pro.svg" width="40" height="40" alt="Premiere Pro" title="Premiere Pro">
+<img src="assets/icons/after-effects.svg" width="40" height="40" alt="After Effects" title="After Effects">
+</p>
+
+**Web & Mobile**
+
+<p>
+<img src="assets/icons/react.svg" width="40" height="40" alt="React" title="React">
+<img src="assets/icons/nextdotjs.svg" width="40" height="40" alt="Next.js" title="Next.js">
+<img src="assets/icons/nodedotjs.svg" width="40" height="40" alt="Node.js" title="Node.js">
+<img src="assets/icons/flutter.svg" width="40" height="40" alt="Flutter" title="Flutter">
+</p>
+
+**Languages**
+
+<p>
+<img src="assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript">
+<img src="assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript">
+<img src="assets/icons/dart.svg" width="40" height="40" alt="Dart" title="Dart">
+<img src="assets/icons/python.svg" width="40" height="40" alt="Python" title="Python">
+<img src="assets/icons/rust.svg" width="40" height="40" alt="Rust" title="Rust">
+<img src="assets/icons/c.svg" width="40" height="40" alt="C" title="C">
+<img src="assets/icons/csharp.svg" width="40" height="40" alt="C#" title="C#">
+</p>
+
+**Tools**
+
+<p>
+<img src="assets/icons/neovim.svg" width="40" height="40" alt="Neovim" title="Neovim">
+<img src="assets/icons/wezterm.svg" width="40" height="40" alt="WezTerm" title="WezTerm">
+<img src="assets/icons/git.svg" width="40" height="40" alt="Git" title="Git">
+<img src="assets/icons/lazygit.svg" width="40" height="40" alt="Lazygit" title="Lazygit">
+<img src="assets/icons/docker.svg" width="40" height="40" alt="Docker" title="Docker">
+<img src="assets/icons/pi-coding-agent.svg" width="40" height="40" alt="Pi Coding Agent" title="Pi Coding Agent">
+<img src="assets/icons/orca.svg" width="40" height="40" alt="Orca" title="Orca">
+<img src="assets/icons/notion.svg" width="40" height="40" alt="Notion" title="Notion">
+<img src="assets/icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian">
+</p>
 
 ## Lately
 
@@ -32,7 +69,10 @@ I’ve been thinking about what it takes for one coding agent to pick up
 where another left off. What context makes a handoff useful, and what
 just gets in the way?
 
-## On GitHub
+## GitHub Activity
+
+<!-- Manual snapshot, not live. Refresh with: node scripts/beret-ticket.mjs (data: streak-stats.demolab.com type=json) -->
+<a href="https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity"><img src="assets/github-activity-ticket.svg" width="560" alt="GitHub activity snapshot: total contributions, current streak and longest streak"></a>
 
 [Contribution activity](https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity)
  · [Portfolio](https://buchi-kmc-portfolio.vercel.app/en)

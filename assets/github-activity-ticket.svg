@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-labelledby="title desc">
+<title id="title">Ink Blue Beret Ticket: GitHub activity</title>
+<desc id="desc">1,472 contributions in total. Current streak: 2 days. Longest streak: 20 days. Snapshot taken 2026-11-25.</desc>
+<path d="M16 1H348A12 12 0 0 0 372 1H544A15 15 0 0 1 559 16V164A15 15 0 0 1 544 179H372A12 12 0 0 0 348 179H16A15 15 0 0 1 1 164V16A15 15 0 0 1 16 1Z" fill="#E7EEF7" stroke="#24364E" stroke-width="2"/>
+<line x1="360" y1="20" x2="360" y2="160" stroke="#7A92AA" stroke-width="2" stroke-dasharray="6 6"/>
+<g transform="translate(32 30)">
+  <path d="M4 26C4 12 18 4 32 4S60 12 60 24C60 30 52 33 32 33S4 32 4 26Z" fill="#365C87" stroke="#24364E" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M8 30C18 35 46 35 56 29" fill="none" stroke="#24364E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 4V0" stroke="#24364E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 14C22 10 27 9 31 9" fill="none" stroke="#E7EEF7" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</g>
+<text x="104" y="50" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#365C87" letter-spacing="1.5">GITHUB ACTIVITY</text>
+<text x="104" y="68" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#24364E">Snapshot · 2026-11-25</text>
+<text x="32" y="136" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#24364E">1,472</text>
+<text x="32" y="158" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#365C87">total contributions</text>
+<text x="392" y="52" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#365C87" letter-spacing="1.2">CURRENT STREAK</text>
+<text x="392" y="80" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#24364E">2 days</text>
+<line x1="392" y1="96" x2="528" y2="96" stroke="#7A92AA" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="392" y="122" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#365C87" letter-spacing="1.2">LONGEST STREAK</text>
+<text x="392" y="150" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#24364E">20 days</text>
+</svg>
