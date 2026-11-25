@@ -1,7 +1,5 @@
 # Kota Mizobuchi / Buchi
 
-<img align="right" width="128" alt="Kota Mizobuchi" src="https://buchi-kmc-portfolio.vercel.app/_next/image?url=%2Fphoto.jpg&amp;w=256&amp;q=75">
-
 *The Engineer in the Beret.*
 
 I’ve been programming since I was a kid. I’m now studying design,
@@ -17,10 +15,16 @@ seeing someone enjoy using them.
 
 ## At my desk
 
-- **Design:** Figma to sketch an idea before I commit to it in code.
-- **Web:** TypeScript, React, and Next.js to turn those sketches into something I can try.
-- **Command line:** Rust and Go for tools I want to use from the terminal.
-- **Workflow:** Neovim for editing, Pi and Orca for working with coding agents.
+![Figma](https://img.shields.io/badge/Figma-6A37CB?style=flat-square&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-9C401E?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00718B?style=flat-square&logo=go&logoColor=white)
+
+![Neovim](https://img.shields.io/badge/Neovim-367C37?style=flat-square&logo=neovim&logoColor=white)
+![Pi](https://img.shields.io/badge/Pi-49566B?style=flat-square)
+![Orca](https://img.shields.io/badge/Orca-49566B?style=flat-square)
 
 ## Lately
 
