@@ -13,6 +13,14 @@ figuring out how to make something work, but now I ask myself another question:
 That’s where I find joy in making things: in figuring them out and in
 seeing someone enjoy using them.
 
+## GitHub Activity
+
+<!-- Manual snapshot, not live. Refresh with: node scripts/beret-ticket.mjs (data: streak-stats.demolab.com type=json) -->
+<a href="https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity"><img src="assets/github-activity-ticket.svg" width="560" alt="GitHub activity snapshot: total contributions, current streak and longest streak"></a>
+
+[Contribution activity](https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity)
+ · [Portfolio](https://buchi-kmc-portfolio.vercel.app/en)
+
 ## Technologies & Tools
 
 <!-- Logo tiles: local assets; sources and licenses in assets/icons/ATTRIBUTION.md. Dashed tiles are custom lettermarks, not official logos. -->
@@ -62,17 +70,3 @@ seeing someone enjoy using them.
 <img src="assets/icons/notion.svg" width="40" height="40" alt="Notion" title="Notion">
 <img src="assets/icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian">
 </p>
-
-## Lately
-
-I’ve been thinking about what it takes for one coding agent to pick up
-where another left off. What context makes a handoff useful, and what
-just gets in the way?
-
-## GitHub Activity
-
-<!-- Manual snapshot, not live. Refresh with: node scripts/beret-ticket.mjs (data: streak-stats.demolab.com type=json) -->
-<a href="https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity"><img src="assets/github-activity-ticket.svg" width="560" alt="GitHub activity snapshot: total contributions, current streak and longest streak"></a>
-
-[Contribution activity](https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity)
- · [Portfolio](https://buchi-kmc-portfolio.vercel.app/en)
