@@ -13,13 +13,19 @@ figuring out how to make something work, but now I ask myself another question:
 That’s where I find joy in making things: in figuring them out and in
 seeing someone enjoy using them.
 
+<p>
+<a href="https://buchi-kmc-portfolio.vercel.app"><img src="assets/icons/portfolio.svg" width="40" height="40" alt="Portfolio" title="Portfolio"></a>
+<a href="https://x.com/Buchi_dev_dzn"><img src="assets/icons/x.svg" width="40" height="40" alt="X (@Buchi_dev_dzn)" title="X"></a>
+<a href="https://www.instagram.com/buchi.dev.dzn/"><img src="assets/icons/instagram.svg" width="40" height="40" alt="Instagram (@buchi.dev.dzn)" title="Instagram"></a>
+<a href="https://www.linkedin.com/in/kota-mizobuchi"><img src="assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn (Kota Mizobuchi)" title="LinkedIn"></a>
+</p>
+
 ## GitHub Activity
 
 <!-- Manual snapshot, not live. Refresh with: node scripts/beret-ticket.mjs (data: streak-stats.demolab.com type=json) -->
 <a href="https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity"><img src="assets/github-activity-ticket.svg" width="560" alt="GitHub activity snapshot: total contributions, current streak and longest streak"></a>
 
 [Contribution activity](https://github.com/Buchi-dev-dzn?tab=overview#js-contribution-activity)
- · [Portfolio](https://buchi-kmc-portfolio.vercel.app/en)
 
 ## Technologies & Tools
 

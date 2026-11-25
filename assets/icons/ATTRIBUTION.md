@@ -27,6 +27,17 @@ Modified files that carry a ShareAlike license remain under that license.
 | docker.svg | Docker | https://www.docker.com/company/newsroom/media-resources | CC0 1.0 (Simple Icons) |
 | notion.svg | Notion | https://www.notion.so | CC0 1.0 (Simple Icons) |
 | obsidian.svg | Obsidian | https://obsidian.md/brand | CC0 1.0 (Simple Icons) |
+| x.svg | X | https://x.com | CC0 1.0 (Simple Icons) |
+| instagram.svg | Instagram | https://about.meta.com/brand/resources/instagram | CC0 1.0 (Simple Icons) |
+
+## Other sources
+
+`linkedin.svg`: LinkedIn “in” glyph from [Font Awesome Free](https://fontawesome.com) 6.7.2
+(`svgs/brands/linkedin-in.svg`, © Fonticons, Inc.), licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes: recolored, scaled and
+placed on a tile. LinkedIn is not in Simple Icons.
+
+`portfolio.svg`: original globe glyph (generic, not a logo). Original work in this repository.
 
 ## Custom lettermarks (dashed border)
 
