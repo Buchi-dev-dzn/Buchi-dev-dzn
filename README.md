@@ -63,7 +63,6 @@ seeing someone enjoy using them.
 <img src="assets/icons/neovim.svg" width="40" height="40" alt="Neovim" title="Neovim">
 <img src="assets/icons/wezterm.svg" width="40" height="40" alt="WezTerm" title="WezTerm">
 <img src="assets/icons/git.svg" width="40" height="40" alt="Git" title="Git">
-<img src="assets/icons/lazygit.svg" width="40" height="40" alt="Lazygit" title="Lazygit">
 <img src="assets/icons/docker.svg" width="40" height="40" alt="Docker" title="Docker">
 <img src="assets/icons/pi-coding-agent.svg" width="40" height="40" alt="Pi Coding Agent" title="Pi Coding Agent">
 <img src="assets/icons/orca.svg" width="40" height="40" alt="Orca" title="Orca">
